@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.3](https://github.com/gforti/standard-version-test/compare/v0.0.2...v0.0.3) (2020-01-09)
+
+
+### Features
+
+* new line added to home ([f66b5af](https://github.com/gforti/standard-version-test/commit/f66b5afc1358b7b9eec1d0a55c1891d7fad656a0))
+
+
+### Bug Fixes
+
+* line for home duplicated ([e423247](https://github.com/gforti/standard-version-test/commit/e423247ce09d0ce4d2ceaccd1f9cef6944d58faf))
+
 ### [0.0.2](https://github.com/gforti/standard-version-test/compare/v0.0.1...v0.0.2) (2020-01-09)
 
 
