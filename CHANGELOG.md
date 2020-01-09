@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.1.0](https://github.com/gforti/standard-version-test/compare/v0.0.3...v0.1.0) (2020-01-09)
+
+
+### ⚠ BREAKING CHANGES
+
+* breaking the page
+
+### Features
+
+* breaking the page ([591530e](https://github.com/gforti/standard-version-test/commit/591530e9c297619cad10380bcd32321da9c13660))
+
 ### [0.0.3](https://github.com/gforti/standard-version-test/compare/v0.0.2...v0.0.3) (2020-01-09)
 
 
