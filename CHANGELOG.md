@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.3.2](https://github.com/gforti/standard-version-test/compare/v0.3.1...v0.3.2) (2020-01-29)
+
+
+### Features
+
+* this is a new feature update ([2de07ec](https://github.com/gforti/standard-version-test/commit/2de07ec72e4ca06c7c18598e5ebf73a7f3327dac))
+
+
+### Bug Fixes
+
+* this is now a fix ([11f701d](https://github.com/gforti/standard-version-test/commit/11f701d2de3c142e9dfaf5ff87662c2f0d68016d))
+
 ### [0.3.1](https://github.com/gforti/standard-version-test/compare/v0.3.0...v0.3.1) (2020-01-10)
 
 
